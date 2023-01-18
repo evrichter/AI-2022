@@ -1,6 +1,6 @@
 ## Artificial Intelligence
 
-This repository contains 10 theoretical assignment sheets including corrections and 3 practical assignment sheets from the course **Artificial Intelligence**, which was held at the **Universität des Saarlandes** in the **summer semester 2022**. <br />
+This repository contains 10 theoretical assignments including corrections and 3 practical assignments from the course **Artificial Intelligence**, which was held at **Saarland University** in the **summer semester 2022**. <br />
 
 **Theoretical Assignment 1**: Intelligent Agents <br />
 **Theoretical Assignment 2**: Classical Search <br />
